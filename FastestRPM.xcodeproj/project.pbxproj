@@ -13,6 +13,8 @@
 		622C907E1D8F85960020D912 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622C907C1D8F85960020D912 /* Main.storyboard */; };
 		622C90801D8F85960020D912 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 622C907F1D8F85960020D912 /* Assets.xcassets */; };
 		622C90831D8F85960020D912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622C90811D8F85960020D912 /* LaunchScreen.storyboard */; };
+		622C908B1D8F864E0020D912 /* speedometer.png in Resources */ = {isa = PBXBuildFile; fileRef = 622C908A1D8F864E0020D912 /* speedometer.png */; };
+		622C908D1D8F868F0020D912 /* needle.png in Resources */ = {isa = PBXBuildFile; fileRef = 622C908C1D8F868F0020D912 /* needle.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		622C907F1D8F85960020D912 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		622C90821D8F85960020D912 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		622C90841D8F85960020D912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		622C908A1D8F864E0020D912 /* speedometer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speedometer.png; sourceTree = "<group>"; };
+		622C908C1D8F868F0020D912 /* needle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = needle.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				622C90791D8F85960020D912 /* ViewController.h */,
 				622C907A1D8F85960020D912 /* ViewController.m */,
 				622C907C1D8F85960020D912 /* Main.storyboard */,
+				622C908A1D8F864E0020D912 /* speedometer.png */,
+				622C908C1D8F868F0020D912 /* needle.png */,
 				622C907F1D8F85960020D912 /* Assets.xcassets */,
 				622C90811D8F85960020D912 /* LaunchScreen.storyboard */,
 				622C90841D8F85960020D912 /* Info.plist */,
@@ -136,6 +142,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				622C908B1D8F864E0020D912 /* speedometer.png in Resources */,
+				622C908D1D8F868F0020D912 /* needle.png in Resources */,
 				622C90831D8F85960020D912 /* LaunchScreen.storyboard in Resources */,
 				622C90801D8F85960020D912 /* Assets.xcassets in Resources */,
 				622C907E1D8F85960020D912 /* Main.storyboard in Resources */,
